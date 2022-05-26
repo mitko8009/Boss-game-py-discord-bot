@@ -1,0 +1,16 @@
+{
+	"main": {
+		"token": "<token>",
+		"prefix": "u!"
+	},
+	"logging": {
+		"logging": true,
+		"filename": "./log.log"
+	},
+	"embed": {
+		"embed_footer": "Made by UNIVERSUM"
+	},
+	"boss": {
+		"file": "./data/boss.json"
+	}
+}
